@@ -8,7 +8,7 @@
 
 Currently work as a Technical Leader. Founder Musobar Media(Free Programming Courses on Youtube). Self taught Coder, self taught Artist,  self taught Guitarist,  and Game Addict. Coding since 2010, enjoy solving problems and experienced building large scale backend services. I built several opensource libraries and tools just for fun.
 
-#### do you love art ? please visit my Instagram page [wury_musobar](https://www.instagram.com/wury_musobar/)
+#### do you like art ? please visit my Instagram page [wury_musobar](https://www.instagram.com/wury_musobar/)
 
 Sneakers Conv*rse | Iced water | VW Beetle | Troy's Achilles 
 --- | --- | --- | ---
