@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="./assets/wury_in_aksara_jawa.jpg" width="400">](https://github.com/wuriyanto48)
+[<img src="https://raw.githubusercontent.com/wuriyanto48/wuriyanto48/master/assets/wury_in_aksara_jawa.jpg" width="400">](https://github.com/wuriyanto48)
 <br/><br/>
 ## Wuriyanto
 ### hobbyist software engineer, artist, author, writer, & indie researcer
